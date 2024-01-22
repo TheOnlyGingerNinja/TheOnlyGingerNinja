@@ -4,7 +4,6 @@
 - 🧙🏻‍♂️ I’m looking to collaborate on future projects
 - 🌎 You can message me through GITHUB
 - 🌵 Pronouns: sir, him, dude, he, maleman, feller, ...
-- 🦄 Fun fact: 
 
 <!---
 TheOnlyGingerNinja/TheOnlyGingerNinja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
